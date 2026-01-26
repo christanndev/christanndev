@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Iuhos Cristian
 
-I'm a 17-year-old **Full-Stack Developer** and **UI/UX Designer** from Romania. I specialize in building complex web ecosystems and immersive scripts for the Roleplay (RP) community.
+I'm a 17-year-old **Full-Stack Developer** and **UI/UX Designer** from Romania. I specialize in building complex web ecosystems and immersive scripts for the FiveM / RedM / Rage-mp community.
 
 ---
 
