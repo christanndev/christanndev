@@ -44,8 +44,8 @@ I'm a 17-year-old **Full-Stack Developer** and **UI/UX Designer** from Romania. 
 
 ### 📈 GitHub Status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=christanndev&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christanndev&layout=compact&theme=radical" alt="Langs" />
 </p>
 
 ---
