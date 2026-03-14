@@ -30,7 +30,6 @@ I'm a 17-year-old **Full-Stack Developer** and **UI/UX Designer** from Romania. 
 
 ### 🚀 Major Projects
 
-* **Most Wanted RP** – Focused on high-performance scripting and player-centric UI.
 * **Aero RP** – Architecting scalable systems and seamless frontend integrations.
 
 ---
