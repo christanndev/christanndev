@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Iuhos Cristian
 
-I'm a 17-year-old **Full-Stack Developer** and **UI/UX Designer** from Romania. I specialize in building complex web ecosystems and immersive scripts for the FiveM / RedM / Rage-mp community.
+I'm a 18-year-old **Full-Stack Developer** and **UI/UX Designer** from Romania. I specialize in building complex web ecosystems and immersive scripts for the FiveM / RedM / Rage-mp community.
 
 ---
 
@@ -38,14 +38,6 @@ I'm a 17-year-old **Full-Stack Developer** and **UI/UX Designer** from Romania. 
 * **Romanian** (Native)
 * **Hungarian** (Native)
 * **English** (Fluent)
-
----
-
-### 📈 GitHub Status
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christanndev&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christanndev&layout=compact&theme=radical" alt="Langs" />
-</p>
 
 ---
 
