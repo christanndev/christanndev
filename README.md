@@ -30,7 +30,7 @@ I'm a 18-year-old **Full-Stack Developer** and **UI/UX Designer** from Romania. 
 
 ### 🚀 Major Projects
 
-* **Aero RP** – Architecting scalable systems and seamless frontend integrations.
+* **aero.mp** – Architecting scalable systems and seamless frontend integrations.
 
 ---
 
