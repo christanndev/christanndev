@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Iuhos Cristian
+#  Hi, I'm Iuhos Cristian
 
 I'm a 18-year-old **Full-Stack Developer** and **UI/UX Designer** from Romania. I specialize in building complex web ecosystems and immersive scripts for the FiveM / RedM / Rage-mp community.
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 
 **Frontend & Logic**
 <p align="left">
@@ -28,20 +28,20 @@ I'm a 18-year-old **Full-Stack Developer** and **UI/UX Designer** from Romania. 
 
 ---
 
-### 🚀 Major Projects
+### Major Projects
 
 * **aero.mp** – Architecting scalable systems and seamless frontend integrations.
 
 ---
 
-### 🌐 Fluent In
+### Fluent In
 * **Romanian** (Native)
 * **Hungarian** (Native)
 * **English** (Fluent)
 
 ---
 
-### 📫 Reach Out
+### Reach Out
 * **Email:** [chistann.dev@proton.me](mailto:chistann.dev@proton.me)
 * **Discord:** `christann.i`
 
