@@ -1,10 +1,13 @@
-#  Hi, I'm Iuhos Cristian
+<h1 align="center">Hi, I'm Iuhos Cristian</h1>
+<h3 align="center">Full-Stack Developer & UI/UX Designer from Romania</h3>
 
-I'm a 18-year-old **Full-Stack Developer** and **UI/UX Designer** from Romania. I specialize in building complex web ecosystems and immersive scripts for the FiveM / RedM / Rage-mp community.
+<p align="center">
+  I build complex web ecosystems and immersive scripts for the FiveM / RedM community.
+</p>
 
 ---
 
-###  My Tech Stack
+### Tech Stack
 
 **Frontend & Logic**
 <p align="left">
@@ -23,29 +26,32 @@ I'm a 18-year-old **Full-Stack Developer** and **UI/UX Designer** from Romania. 
 
 **Currently Leveling Up In**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs" alt="Learning" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,swift" alt="Learning" />
 </p>
 
 ---
 
-### Major Projects
+###  Major Projects
 
-* **aero.mp** – Architecting scalable systems and seamless frontend integrations.
-
----
-
-### Fluent In
-* **Romanian** (Native)
-* **Hungarian** (Native)
-* **English** (Fluent)
+* **[aero.mp](https://aero.mp)** – Architecting scalable systems and seamless frontend integrations for a custom FiveM roleplay platform.
 
 ---
 
-### Reach Out
+###  Fluent In
+
+* 🇷🇴 **Romanian** (Native)
+* 🇭🇺 **Hungarian** (Native)
+* 🇬🇧 **English** (Fluent)
+
+---
+
+###  Reach Out
+
 * **Email:** [chistann.dev@proton.me](mailto:chistann.dev@proton.me)
 * **Discord:** `christann.i`
 
 ---
+
 <p align="center">
-  "Turning coffee into code and ideas into interactive reality."
+  <i>"Turning coffee into code and ideas into interactive reality."</i>
 </p>
